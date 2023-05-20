@@ -1,0 +1,1 @@
+docker build -t patrickdmiller/cuda-ubuntu-python:12.0.1-ubuntu22.04-python3.10.9	 -f dockerfile .
